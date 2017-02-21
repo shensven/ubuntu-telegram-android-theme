@@ -4,3 +4,5 @@ With the design of [Ubuntu Dark Theme for Telegram Desktop](https://github.com/
 ##Usage##
 1. Open Channel `@xxxxxx`.
 2. Click the button `Get Theme` to apply.
+
+To be continued...
