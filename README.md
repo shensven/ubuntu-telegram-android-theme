@@ -1,2 +1,2 @@
-# ubuntu-dark-telegram-android-theme
-A telegram android theme in stylish ubuntu design pattern.
+# Ubuntu Dark Theme for Telegram Android
+With the design of [Ubuntu Dark Theme for Telegram Desktop](https://github.com/michaelkisiel/ubuntu-dark-telegram-theme)
